@@ -1,1 +1,1 @@
-# odin-flexbox-landingpage
+This is the Project: Landing Page from Odin Foundations Course
