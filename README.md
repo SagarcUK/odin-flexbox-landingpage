@@ -1,1 +1,1 @@
-This is the Project: Landing Page from Odin Foundations course
+This is the Project: Landing Page from Odin Foundations course.
